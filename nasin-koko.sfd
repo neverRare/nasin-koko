@@ -12,7 +12,6 @@ UnderlineWidth: 0
 Ascent: 1000
 Descent: 0
 InvalidEm: 0
-sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -22,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1707897574
-ModificationTime: 1707972970
+ModificationTime: 1707985430
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 989396 31 10
+WinInfo: 0 31 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -71,7 +70,7 @@ Grid
   Named: "top boundary"
 EndSplineSet
 TeXData: 1 0 0 524288 262144 174762 0 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 107
+BeginChars: 1114112 113
 
 StartChar: uF1900
 Encoding: 989440 989440 0
@@ -3597,6 +3596,48 @@ SplineSet
  121.94921875 850 l 1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni200D
+Encoding: 8205 8205 107
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni3000
+Encoding: 12288 12288 108
+Width: 1000
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniFE00
+Encoding: 65024 65024 109
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uniFE01
+Encoding: 65025 65025 110
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniFE02
+Encoding: 65026 65026 111
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniFE03
+Encoding: 65027 65027 112
+Width: 0
+Flags: HW
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
