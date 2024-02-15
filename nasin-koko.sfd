@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1707897574
-ModificationTime: 1707958697
+ModificationTime: 1707958953
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -53,13 +53,27 @@ FitToEm: 0
 WinInfo: 989396 31 10
 BeginPrivate: 0
 EndPrivate
+Grid
+949.990234375 1500 m 0
+ 949.990234375 -500 l 1024
+  Named: "right boundary"
+50 1500 m 0
+ 50 -500 l 1024
+  Named: "left boundary"
+-1000 -50 m 0
+ 2000 -50 l 1024
+  Named: "lower boundary"
+-1000 850 m 0
+ 2000 850 l 1024
+  Named: "top boundary"
+EndSplineSet
 TeXData: 1 0 0 524288 262144 174762 0 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 1114112 107
 
 StartChar: uF1900
 Encoding: 989440 989440 0
 Width: 1000
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
