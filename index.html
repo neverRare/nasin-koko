@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test</title>
+    <style>
+      @font-face {
+        font-family: nasin-koko;
+        src: url("./version/latest.otf") format("opentype");
+      }
+      body {
+        margin: 10px;
+        font-family: nasin-koko, sans-serif;
+      }
+      textarea {
+        font-family: inherit;
+        width: 800px;
+        height: 400px;
+      }
+    </style>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+  </head>
+  <body>
+    <h1>nasin Koko</h1>
+    <p>
+      <a href="https://github.com/neverRare/nasin-koko/releases">Download</a>
+    </p>
+    <p>
+      <label>Size: <input type="number" value="16" id="size" />px</label>
+      <button id="show-poem-button">Show poem</button>
+    </p>
+    <textarea id="textarea">
+󱥪​󱥺​󱤧​󱤘​󱤆​󱤉​󱥎
+󱥧​󱤑󱦐󱤘󱦜󱦑󱦐󱥨󱦜󱤴󱦝󱦑
+
+　󱥪​󱤧​󱤖​󱥧​󱥺​󱤫​󱥮​󱥍󱦗󱤑󱥳󱦘
+　　󱤧​󱥠​󱥜​󱥦​󱤬​󱤅​󱥟
+　󱥆​󱤧​󱥷​󱥩​󱤰
+󱥨​󱥆​󱤧​󱤈​󱤬​󱥛​󱤧​󱥐​󱤬​󱤥​󱤧​󱥶
+󱥡​󱤡​󱥴​󱤊​󱤔​󱤊​󱥑​󱤊​󱤁​󱤊​󱥢​󱤄​󱤧​󱤘​󱥌​󱥖
+󱥨​󱥎​󱥍󱦗󱤑󱥁󱦘​󱤧​󱥣​󱤡​󱥪​󱤮​󱤧​󱥝​󱤧​󱥵
+　　　　　　　　　　󱤧​󱥘​󱤉​󱤌​󱥒​󱤉​󱥭​󱤉​󱥃​󱤉​󱥥​󱤉​󱤶
+　　　　　　　　　　　　󱤉​󱥋​󱤉​󱥓​󱤛​󱤉​󱤸​󱤉​󱤭
+　　　　　　　　　　　　󱤉​󱤤​󱤉​󱥀​󱤉​󱤠​󱤉​󱤩​󱥚​󱥹
+󱤣​󱤦​󱥁​󱤧​󱤨​󱤉​󱥗​󱤏
+　　　󱤧​󱤢​󱤉​󱤍​󱥬
+　　　󱤧​󱥇​󱤉​󱤆　　　　　　　　「󱤀
+　　　󱤧​󱤋​󱤉​󱤜​󱤐​󱤉​󱤹​󱥇　　　　　󱤀󱦗　　　　　　　　　　󱦘」
+󱤝​󱥍󱦗󱤞󱤂󱦘​󱤧​󱥧​󱥰
+　　　　󱤧​󱤕​󱥱​󱤬​󱥪
+　　　　󱤧​󱤽​󱤼
+　　　　󱤧​󱥩​󱤺
+　　　　󱤧​󱥈​󱤾​󱤉​󱥤​󱥚　　　　　「󱤴​󱥈󱦘」
+󱥏​󱤷​󱤧​󱤖​󱥸​󱤉​󱤿​󱥫
+
+󱥔​󱥄​󱤙​󱤃​󱥙
+󱤲​󱤇​󱥯​󱤇​󱥕​󱤇​󱥂​󱤆​󱤧​󱥖​󱤚​󱥧​󱤗​󱥍​󱤪​󱤒​󱤷
+「󱥞​󱥷​󱤂​󱥁
+　󱥞​󱥷​󱤱​󱤉​󱤻
+　󱥞​󱥷​󱥅​󱤉​󱤳​󱤉​󱤵​󱤉​󱥾」　　　　　󱥆​󱤧​󱤓​󱤉​󱤎​󱥊​󱤉​󱥟​󱥭​󱤧​󱥉​󱤉​󱤯
+　　　　　　　　　　　　　　　　󱥪​󱤧​󱤖​󱥶
+　　　　　　　　　　　　　　　　󱤣​󱤧​󱤖​󱥲
+　　　　　　　　　　　　　　　　󱤑​󱤧​󱥩​󱤯
+　　　　　　　　　　　　　　　　　󱤧​󱥩​󱤿​󱥇
+　　　　　　　　　　　　　　　　　󱤧​󱥩​󱤟
+　　　　　　　　　　　　　　　󱥔​󱤖​󱤧​󱥶​󱥵
+　　　　　　　　　　　　　　󱥨​󱤣​󱥶​󱤧​󱤖​󱤘​󱤉​󱥁
+</textarea
+    >
+  </body>
+</html>
+<script>
+  const poem = `󱥪​󱥺​󱤧​󱤘​󱤆​󱤉​󱥎
+󱥧​󱤑󱦐󱤘󱦜󱦑󱦐󱥨󱦜󱤴󱦝󱦑
+
+　󱥪​󱤧​󱤖​󱥧​󱥺​󱤫​󱥮​󱥍󱦗󱤑󱥳󱦘
+　　󱤧​󱥠​󱥜​󱥦​󱤬​󱤅​󱥟
+　󱥆​󱤧​󱥷​󱥩​󱤰
+󱥨​󱥆​󱤧​󱤈​󱤬​󱥛​󱤧​󱥐​󱤬​󱤥​󱤧​󱥶
+󱥡​󱤡​󱥴​󱤊​󱤔​󱤊​󱥑​󱤊​󱤁​󱤊​󱥢​󱤄​󱤧​󱤘​󱥌​󱥖
+󱥨​󱥎​󱥍󱦗󱤑󱥁󱦘​󱤧​󱥣​󱤡​󱥪​󱤮​󱤧​󱥝​󱤧​󱥵
+　　　　　　　　　　󱤧​󱥘​󱤉​󱤌​󱥒​󱤉​󱥭​󱤉​󱥃​󱤉​󱥥​󱤉​󱤶
+　　　　　　　　　　　　󱤉​󱥋​󱤉​󱥓​󱤛​󱤉​󱤸​󱤉​󱤭
+　　　　　　　　　　　　󱤉​󱤤​󱤉​󱥀​󱤉​󱤠​󱤉​󱤩​󱥚​󱥹
+󱤣​󱤦​󱥁​󱤧​󱤨​󱤉​󱥗​󱤏
+　　　󱤧​󱤢​󱤉​󱤍​󱥬
+　　　󱤧​󱥇​󱤉​󱤆　　　　　　　　「󱤀
+　　　󱤧​󱤋​󱤉​󱤜​󱤐​󱤉​󱤹​󱥇　　　　　󱤀󱦗　　　　　　　　　　󱦘」
+󱤝​󱥍󱦗󱤞󱤂󱦘​󱤧​󱥧​󱥰
+　　　　󱤧​󱤕​󱥱​󱤬​󱥪
+　　　　󱤧​󱤽​󱤼
+　　　　󱤧​󱥩​󱤺
+　　　　󱤧​󱥈​󱤾​󱤉​󱥤​󱥚　　　　　「󱤴​󱥈󱦘」
+󱥏​󱤷​󱤧​󱤖​󱥸​󱤉​󱤿​󱥫
+
+󱥔​󱥄​󱤙​󱤃​󱥙
+󱤲​󱤇​󱥯​󱤇​󱥕​󱤇​󱥂​󱤆​󱤧​󱥖​󱤚​󱥧​󱤗​󱥍​󱤪​󱤒​󱤷
+「󱥞​󱥷​󱤂​󱥁
+　󱥞​󱥷​󱤱​󱤉​󱤻
+　󱥞​󱥷​󱥅​󱤉​󱤳​󱤉​󱤵​󱤉​󱥾」　　　　　󱥆​󱤧​󱤓​󱤉​󱤎​󱥊​󱤉​󱥟​󱥭​󱤧​󱥉​󱤉​󱤯
+　　　　　　　　　　　　　　　　󱥪​󱤧​󱤖​󱥶
+　　　　　　　　　　　　　　　　󱤣​󱤧​󱤖​󱥲
+　　　　　　　　　　　　　　　　󱤑​󱤧​󱥩​󱤯
+　　　　　　　　　　　　　　　　　󱤧​󱥩​󱤿​󱥇
+　　　　　　　　　　　　　　　　　󱤧​󱥩​󱤟
+　　　　　　　　　　　　　　　󱥔​󱤖​󱤧​󱥶​󱥵
+　　　　　　　　　　　　　　󱥨​󱤣​󱥶​󱤧​󱤖​󱤘​󱤉​󱥁
+`;
+  document.addEventListener("DOMContentLoaded", () => {
+    const textArea = document.getElementById("textarea");
+    document.getElementById("size").addEventListener("change", (event) => {
+      textArea.style.fontSize = event.srcElement.value + "px";
+    });
+    document
+      .getElementById("show-poem-button")
+      .addEventListener("click", () => {
+        textArea.value = poem;
+      });
+  });
+</script>
