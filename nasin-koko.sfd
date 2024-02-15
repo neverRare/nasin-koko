@@ -3603,13 +3603,17 @@ Encoding: 8205 8205 107
 Width: 0
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uni3000
 Encoding: 12288 12288 108
 Width: 1000
-Flags: HW
+Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uniFE00
@@ -3617,27 +3621,35 @@ Encoding: 65024 65024 109
 Width: 0
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uniFE01
 Encoding: 65025 65025 110
 Width: 0
-Flags: HW
+Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uniFE02
 Encoding: 65026 65026 111
 Width: 0
-Flags: HW
+Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uniFE03
 Encoding: 65027 65027 112
 Width: 0
-Flags: HW
+Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
