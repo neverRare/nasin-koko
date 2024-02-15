@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="552"
+   height="552"
+   xml:space="preserve"
+   overflow="hidden"
+   version="1.1"
+   id="svg25"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><g
+     id="g51"
+     transform="translate(-4341,-651)"><rect
+       x="0"
+       y="0"
+       width="552"
+       height="552"
+       fill="#ffffff"
+       transform="matrix(-1,0,0,1,4893,651)"
+       id="rect18"
+       style="overflow:hidden" /><path
+       d="M 0,44.9999 C 0,20.1471 20.1472,0 45,0 69.8529,0 90.0001,20.1471 90.0001,44.9999 90.0001,69.8526 69.8529,89.9997 45,89.9997 20.1472,89.9997 0,69.8526 0,44.9999 Z"
+       fill-rule="evenodd"
+       transform="matrix(-1,0,0,1,4486,882)"
+       id="path19-9"
+       style="overflow:hidden" /><path
+       d="m 0,0 h 246 v 520 0 H 0 V 461.5 H 180.921 V 58.5 H 0 Z"
+       fill-rule="evenodd"
+       transform="matrix(-1,0,0,1,4792,667)"
+       id="path20-2"
+       style="overflow:hidden" /></g></svg>

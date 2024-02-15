@@ -1,0 +1,8 @@
+Line thickness on inkscape
+
+H: 58.480
+W: 64.924
+
+Diagonal: 61.702
+
+Import scale: 163.04

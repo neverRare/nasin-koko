@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="553"
+   height="552.66986"
+   xml:space="preserve"
+   overflow="hidden"
+   version="1.1"
+   id="svg25"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath186"><g
+         id="g187"><rect
+           x="7448.4663"
+           y="5468.9941"
+           width="2413"
+           height="1239"
+           id="rect186" /></g></clipPath></defs><g
+     id="g188"
+     transform="translate(-8543.8267,-4127.4239)"><rect
+       x="7448.4663"
+       y="5470.9941"
+       width="553"
+       height="552"
+       fill="#ffffff"
+       id="rect2-2"
+       clip-path="url(#clipPath186)"
+       transform="translate(1095.3604,-1343.5702)" /><path
+       id="path2-3"
+       style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-miterlimit:8;-inkscape-stroke:none"
+       d="m 7693.5048,5471.494 v 176.8028 l -147.8535,154.8945 44.6328,42.6035 103.2207,-117.8867 v 295.7559 h 64.9239 v -295.1973 l 102.2226,117.3281 44.6328,-42.6035 -146.8554,-153.8477 V 5471.494 Z"
+       transform="translate(1095.3604,-1343.5702)" /></g></svg>
