@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1707897574
-ModificationTime: 1708047681
+ModificationTime: 1708048883
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -70,7 +70,7 @@ Grid
   Named: "top boundary"
 EndSplineSet
 TeXData: 1 0 0 524288 262144 174762 0 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 118
+BeginChars: 1114112 125
 
 StartChar: uF1900
 Encoding: 989440 989440 0
@@ -3749,6 +3749,64 @@ SplineSet
  -1000 -103 l 1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uF1995
+Encoding: 989589 989589 118
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uF1996
+Encoding: 989590 989590 119
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uF1997
+Encoding: 989591 989591 120
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uF1998
+Encoding: 989592 989592 121
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uF1999
+Encoding: 989593 989593 122
+Width: 0
+VWidth: 1630
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-1000 -103 m 1
+ -0 -103 l 1
+ -0 -198 l 1
+ -1000 -198 l 1
+ -1000 -103 l 1
+EndSplineSet
+EndChar
+
+StartChar: uF199A
+Encoding: 989594 989594 123
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uF199B
+Encoding: 989595 989595 124
+Width: 0
+Flags: HW
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
