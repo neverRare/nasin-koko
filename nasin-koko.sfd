@@ -3656,7 +3656,9 @@ StartChar: uF1990
 Encoding: 989584 989584 113
 Width: 1000
 VWidth: 1231
-Flags: HW
+Flags: W
+HStem: -198 95<853.816 1000> 903 95<850.36 1000>
+VStem: 402 106<245.76 563.064>
 LayerCount: 2
 Fore
 SplineSet
@@ -3676,7 +3678,9 @@ StartChar: uF1991
 Encoding: 989585 989585 114
 Width: 1000
 VWidth: 1231
-Flags: HW
+Flags: W
+HStem: -198 95<0 157.177> 903 95<0 149.64>
+VStem: 492 106<245.342 557.484>
 LayerCount: 2
 Fore
 SplineSet
@@ -3696,7 +3700,8 @@ StartChar: uF1992
 Encoding: 989586 989586 115
 Width: 0
 VWidth: 1630
-Flags: HW
+Flags: W
+HStem: -198 95<-1000 0> 903 95<-1000 0>
 LayerCount: 2
 Fore
 SplineSet
@@ -3718,7 +3723,9 @@ StartChar: uF1993
 Encoding: 989587 989587 116
 Width: 1000
 VWidth: 1630
-Flags: HW
+Flags: W
+HStem: -198 95<553 1000>
+VStem: 447 106<-103 850>
 LayerCount: 2
 Fore
 SplineSet
@@ -3756,6 +3763,8 @@ Encoding: 989589 989589 118
 Width: 0
 Flags: HW
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uF1996
@@ -3763,6 +3772,8 @@ Encoding: 989590 989590 119
 Width: 0
 Flags: HW
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uF1997
@@ -3770,6 +3781,8 @@ Encoding: 989591 989591 120
 Width: 0
 Flags: HW
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uF1998
@@ -3777,13 +3790,16 @@ Encoding: 989592 989592 121
 Width: 0
 Flags: HW
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uF1999
 Encoding: 989593 989593 122
 Width: 0
 VWidth: 1630
-Flags: HW
+Flags: W
+HStem: -198 95<-1000 0>
 LayerCount: 2
 Fore
 SplineSet
@@ -3793,6 +3809,7 @@ SplineSet
  -1000 -198 l 1
  -1000 -103 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uF199A
@@ -3800,6 +3817,8 @@ Encoding: 989594 989594 123
 Width: 0
 Flags: HW
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uF199B
@@ -3807,6 +3826,8 @@ Encoding: 989595 989595 124
 Width: 0
 Flags: HW
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
