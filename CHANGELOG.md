@@ -14,5 +14,5 @@
 - Very early release, only supports pu glyphs in UCSUR although some glyphs are
   missing.
 - Add ideographic space.
-- Defines zero width combiner and variation selector, (Actual combining and
+- Define zero width combiner and variation selector. (Actual combining and
   variation features not yet included)
