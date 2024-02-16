@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1707897574
-ModificationTime: 1708048883
+ModificationTime: 1708051487
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -70,7 +70,7 @@ Grid
   Named: "top boundary"
 EndSplineSet
 TeXData: 1 0 0 524288 262144 174762 0 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 125
+BeginChars: 1114112 127
 
 StartChar: uF1900
 Encoding: 989440 989440 0
@@ -3827,6 +3827,47 @@ Width: 0
 Flags: HW
 LayerCount: 2
 Fore
+Validated: 1
+EndChar
+
+StartChar: uF199C
+Encoding: 989596 989596 125
+Width: 1000
+Flags: W
+HStem: 306 188<440.172 559.828>
+VStem: 406 188<340.172 459.828>
+LayerCount: 2
+Fore
+SplineSet
+406 400 m 0
+ 406 452 448 494 500 494 c 0
+ 552 494 594 452 594 400 c 0
+ 594 348 552 306 500 306 c 0
+ 448 306 406 348 406 400 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uF199D
+Encoding: 989597 989597 126
+Width: 1000
+Flags: W
+HStem: 115 163<444.979 555.021> 522 163<444.979 555.021>
+VStem: 418 164<141.432 251.021 548.979 658.568>
+LayerCount: 2
+Fore
+SplineSet
+418 604 m 0
+ 418 649 455 685 500 685 c 0
+ 545 685 582 649 582 604 c 0
+ 582 559 545 522 500 522 c 0
+ 455 522 418 559 418 604 c 0
+418 196 m 0
+ 418 241 455 278 500 278 c 0
+ 545 278 582 241 582 196 c 0
+ 582 151 545 115 500 115 c 0
+ 455 115 418 151 418 196 c 0
+EndSplineSet
 Validated: 1
 EndChar
 EndChars
