@@ -4,6 +4,7 @@
 
 - Add cartouches and deprecated combiner. (OpenType features not included)
 - Add interpunct and colon.
+- Add sewi.
 - pu glyph is now a bit thicker and larger to align with lipu.
 - noka, soweli, and pakala are now a bit bigger.
 - Add deprecated long pi and combiner.
