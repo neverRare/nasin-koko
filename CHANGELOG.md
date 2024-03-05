@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.100 (On development)
+## 0.100
 
 So many have changed... I have lost track of the changes. Sorry! This list isn't complete!
 
