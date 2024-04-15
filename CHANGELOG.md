@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.200
+
+- Add pimeja
+- Add lete
+
 ## 0.100
 
 So many have changed... I have lost track of the changes. Sorry! This list isn't complete!
