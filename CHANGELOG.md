@@ -4,6 +4,7 @@
 
 - Add pimeja
 - Add lete
+- Add tonsi
 
 ## 0.100
 
