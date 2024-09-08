@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1707897574
-ModificationTime: 1725164277
+ModificationTime: 1725761684
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 989396 31 10
+WinInfo: 989365 31 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -70,7 +70,7 @@ Grid
   Named: "top boundary"
 EndSplineSet
 TeXData: 1 0 0 524288 262144 174762 0 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 139
+BeginChars: 1114112 140
 
 StartChar: uF1900
 Encoding: 989440 989440 0
@@ -4280,7 +4280,7 @@ EndChar
 StartChar: uF197E
 Encoding: 989566 989566 138
 Width: 1000
-Flags: WO
+Flags: W
 HStem: 190 91<420.224 447 553 579.695> 576 95<417.38 581.466>
 VStem: 247 106<348.349 511.736> 447 106<-50 193.264> 647 106<348.384 510.648>
 CounterMasks: 1 38
@@ -4308,6 +4308,34 @@ SplineSet
  406 576 353 511 353 429 c 0
  353 343 410 281 500 281 c 0
  589 281 647 342 647 429 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uF1981
+Encoding: 989569 989569 139
+Width: 1000
+Flags: HWO
+HStem: 331 95.0752<181.967 447 553 818.033> 755 95<378.663 625.4>
+VStem: 76 105.967<426.075 556.273> 447 106<-50 331> 818.033 105.967<426.075 545.081>
+CounterMasks: 1 38
+LayerCount: 2
+Fore
+SplineSet
+499 850 m 0
+ 766 850 924 669 924 426 c 2
+ 924 331 l 1
+ 553 331 l 1
+ 553 -50 l 1
+ 447 -50 l 1
+ 447 331 l 1
+ 76 331 l 1
+ 76 426 l 2
+ 76 460 85 850 499 850 c 0
+499 755 m 0
+ 299 755 182 613 182 426 c 1
+ 818 426 l 1
+ 818 454 811 755 499 755 c 0
 EndSplineSet
 Validated: 1
 EndChar

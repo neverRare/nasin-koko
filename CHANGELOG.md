@@ -5,6 +5,7 @@
 - Add pimeja
 - Add lete
 - Add tonsi
+- Add soko
 
 ## 0.100
 
